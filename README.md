@@ -6,6 +6,10 @@ A shopping app for learning vuex. Help me to understand the fundamentals of vuex
 ```
 npm install
 ```
+## Install Vuex
+```
+npm install vuex@next
+```
 
 ### Compiles and hot-reloads for development
 ```
